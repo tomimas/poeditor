@@ -1,1 +1,10 @@
-
+[
+    {
+        "term": "TEXT",
+        "definition": "Disney's %1% %2% was born in %3%. Screen time %4% minutes",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
