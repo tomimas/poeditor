@@ -1,4 +1,18 @@
-{
-    "TEXT": "Disney's %1% %2% was born in %3%. Screen time %4% minutes",
-    "TITLE": "Character: "
-}
+[
+    {
+        "term": "TEXT",
+        "definition": "Disney's %1% %2% was born in %3%. Screen time %4% minutes",
+        "context": "",
+        "term_plural": "",
+        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TEXT",
+        "comment": ""
+    },
+    {
+        "term": "TITLE",
+        "definition": "Character: ",
+        "context": "",
+        "term_plural": "",
+        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TITLE",
+        "comment": ""
+    }
+]
