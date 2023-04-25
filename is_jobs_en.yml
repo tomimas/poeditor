@@ -1,5 +1,3 @@
 IS001/xslt_localization_labels/transform_with_localizations/localized_labels/TEXT: Disney's %1% %2% was born in %3%. Screen time %4% minutes
-"
-IS001/xslt_localization_labels/transform_with_localizations/localized_labels/TITLE": "Character: "
-"
-IS001/xslt_localization_labels_pdf/transform_with_localizations/localized_labels/CASE ID": CaseId
+IS001/xslt_localization_labels/transform_with_localizations/localized_labels/TITLE: "Character: "
+IS001/xslt_localization_labels_pdf/transform_with_localizations/localized_labels/CASE ID: CaseId
