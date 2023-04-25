@@ -1,18 +1,5 @@
-[
-    {
-        "term": "TEXT",
-        "definition": "Disneyn %1% %2% syntyi vuonna %3%. Ruutuaikaa %4% minuuttia",
-        "context": "",
-        "term_plural": "",
-        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TEXT",
-        "comment": ""
-    },
-    {
-        "term": "TITLE",
-        "definition": "Hahmo: ",
-        "context": "",
-        "term_plural": "",
-        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TITLE",
-        "comment": ""
-    }
-]
+{
+    "IS001/xslt_localization_labels/transform_with_localizations/localized_labels/TEXT": "Disneyn %1% %2% syntyi vuonna %3%. Ruutuaikaa %4% minuuttia",
+    "\nIS001/xslt_localization_labels/transform_with_localizations/localized_labels/TITLE": "Hahmo: ",
+    "\nIS001/xslt_localization_labels_pdf/transform_with_localizations/localized_labels/CASE ID": "CaseId"
+}
