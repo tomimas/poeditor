@@ -1,18 +1,5 @@
-[
-    {
-        "term": "TEXT",
-        "definition": "Disney's %1% %2% was born in %3%. Screen time %4% minutes",
-        "context": "",
-        "term_plural": "",
-        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TEXT",
-        "comment": ""
-    },
-    {
-        "term": "TITLE",
-        "definition": "Character: ",
-        "context": "",
-        "term_plural": "",
-        "reference": "IS001\/xslt_localization_labels\/transform_with_localizations\/localized_labels\/TITLE",
-        "comment": ""
-    }
-]
+{
+    "IS001/xslt_localization_labels/transform_with_localizations/localized_labels/TEXT": "Disney's %1% %2% was born in %3%. Screen time %4% minutes",
+    "\nIS001/xslt_localization_labels/transform_with_localizations/localized_labels/TITLE": "Character: ",
+    "\nIS001/xslt_localization_labels_pdf/transform_with_localizations/localized_labels/CASE ID": "CaseId"
+}
